@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- Header Banner -->
@@ -299,7 +299,6 @@ Observation des activités en technologies de l’information et en développeme
 
 ## 🔭 Current Focus
 
-```yaml
 profile:
   Learning: 
     - "Advanced Distributed Systems Architecture"
