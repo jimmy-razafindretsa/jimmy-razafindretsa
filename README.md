@@ -312,7 +312,7 @@ profile:
   Open To: 
     - "Full-Stack Software Engineering Roles"
     - "Open Source Collaborations"
-```
+
 
 <br />
 
@@ -344,4 +344,4 @@ profile:
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
-```
+
