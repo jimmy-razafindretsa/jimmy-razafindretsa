@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Header Banner -->
@@ -299,6 +298,7 @@ Observation des activités en technologies de l’information et en développeme
 
 ## 🔭 Current Focus
 
+```yaml
 profile:
   Learning: 
     - "Advanced Distributed Systems Architecture"
@@ -312,36 +312,3 @@ profile:
   Open To: 
     - "Full-Stack Software Engineering Roles"
     - "Open Source Collaborations"
-
-
-<br />
-
----
-
-## 📫 Connect
-
-<div align="center">
-  <a href="mailto:jimmyyoelrazafindretsa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/jimmy-razafindretsa-274832294/">
-    <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/jimmy-razafindretsa">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/jimmy-razafindretsa">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br />
-
----
-
-<div align="center">
-  <i>"Engineering robust architectures to solve complex, real-world problems."</i>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=100&section=footer" alt="Footer Banner" width="100%" />
-</div>
-
