@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=250&section=header&text=Jimmy%20Razafindretsa&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=75&descAlign=62" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=250&section=header&text=Jimmy%20Razafindretsa&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Full%20Stack&descAlignY=75&descAlign=62" alt="Header Banner" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Building+Enterprise+Software;Architecting+Full-Stack+Solutions;IoT+and+Systems+Engineering;Creating+Farm+Management+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Building+Enterprise+Software;Architecting+Full-Stack+Solutions;IoT+and+Systems+Development;Crafting+Modern+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br />
@@ -39,11 +39,11 @@
 
 ## 👨‍💻 About Me
 
-I am a results-driven **Software Engineer** specializing in full-stack architecture, systems programming, and high-performance applications. With a strong product engineering mindset, I bridge the gap between complex business requirements and scalable technical solutions. Currently, I am a Software Developer at **Fermes JN Beauchemin**, architecting and building a comprehensive Farm Management Software (FMS) ecosystem, while also delivering bespoke full-stack solutions at **Studio Mur Mur**.
+I am a results-driven **Software Developer** specializing in full-stack architecture, systems programming, and high-performance web applications. With a strong product-focused mindset, I bridge the gap between complex business requirements and scalable technical solutions. Currently, I deliver bespoke full-stack solutions at **Studio Mur Mur**, transforming ambitious client visions into functional, battle-tested applications.
 
 My expertise spans modern frontend ecosystems (Next.js, React), robust backend infrastructures (PostgreSQL, Laravel, Supabase), and low-level systems engineering (C, C++, IoT with ESP32). I thrive in dynamic environments where performance, security, and elegant system design are paramount.
 
-**Open To:** Full-Stack Engineering roles, Systems Architecture, and Open Source collaborations.
+**Open To:** Full-Stack Development roles, Systems Architecture, and Open Source collaborations.
 
 <br />
 
@@ -87,7 +87,7 @@ My expertise spans modern frontend ecosystems (Next.js, React), robust backend i
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Predictive Analytics** | Advanced | Designing data pipelines and predictive modeling for agricultural telemetry and IoT sensor data. |
+| **Predictive Analytics** | Advanced | Designing data pipelines and predictive modeling for telemetry and IoT sensor data. |
 | **Data Engineering** | Advanced | Structuring high-throughput relational databases (PostgreSQL) for structured and unstructured datasets. |
 | **AI Integrations** | Intermediate | Leveraging LLM APIs and prompt engineering for automated workflow orchestration and data parsing. |
 | **Edge Computing** | Intermediate | Processing sensor data locally on microcontrollers (ESP32) before cloud synchronization. |
@@ -143,7 +143,7 @@ Conception et développement d’un système d’irrigation intelligent basé su
 | **Scale** | Edge computing network with cloud synchronization |
 | **Performance** | Low-latency hardware interrupts and efficient memory management |
 | **Security** | Authenticated REST endpoints for remote pump actuation |
-| **Impact** | Autonomous agricultural resource optimization |
+| **Impact** | Autonomous resource optimization via sensor telemetry |
 | **Repository** | Proprietary Hardware / Embedded C++ |
 
 *Bridging hardware and software through embedded systems engineering and cloud APIs.*
@@ -172,14 +172,6 @@ Conception et développement d’un moteur de jeu en Java entièrement réalisé
 
 ## 💼 Experience
 
-**Software Developer** | Fermes JN Beauchemin  
-*Present*  
-Leading the end-to-end architecture and development of a custom Farm Management Software (FMS).
-- Designing scalable database schemas and modular UI components for agricultural tracking.
-- Implementing robust CI/CD pipelines and extensive test-driven development (TDD).
-- Integrating automated workflows and real-time data processing.
-<br/>`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind` `CI/CD`
-
 **Développeur Logiciel Full-Stack** | Studio Mur Mur  
 *2026-02 — Present*  
 Conception, déploiement et maintenance de solutions logicielles sur mesure pour une clientèle variée.
@@ -187,6 +179,14 @@ Conception, déploiement et maintenance de solutions logicielles sur mesure pour
 - Collaboration directe avec les clients pour traduire des besoins d'affaires en architectures techniques robustes.
 - Optimisation des performances et de la sécurité des applications déployées.
 <br/>`Full-Stack Architecture` `Client Relations` `Web Ecosystems`
+
+**Software Developer** | Fermes JN Beauchemin  
+*Present*  
+Leading the end-to-end architecture and development of a custom Software Ecosystem.
+- Designing scalable database schemas and modular UI components.
+- Implementing robust CI/CD pipelines and extensive test-driven development (TDD).
+- Integrating automated workflows and real-time data processing.
+<br/>`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind` `CI/CD`
 
 **Technicien TI – Déploiement** | Fairstone  
 *2025-05 — 2025-07*  
@@ -211,9 +211,9 @@ Observation des activités en technologies de l’information et en développeme
 
 | Recognition | Details |
 | :--- | :--- |
-| **FMS Architecture Lead** | Spearheaded the digital transformation for Fermes JN Beauchemin. |
+| **Full-Stack Architecture Lead** | Spearheaded digital transformations and custom application builds for various clients. |
 | **Open Source Contributor** | Authored and maintained highly optimized Java game engine architecture. |
-| **IoT Innovator** | Designed an autonomous ESP32 irrigation hardware-software bridge. |
+| **IoT Innovator** | Designed an autonomous ESP32 hardware-software bridge. |
 
 </div>
 
@@ -304,11 +304,11 @@ profile:
     - "Advanced Distributed Systems Architecture"
     - "Rust for high-performance memory-safe tooling"
   Building: 
-    - "Enterprise Farm Management Software (FMS) ecosystem"
+    - "Scalable Full-Stack Web Applications"
     - "Secure Identity and Token Management APIs"
   Exploring: 
     - "Edge IoT integrations with WebSockets"
-    - "Machine Learning for Agricultural Telemetry"
+    - "Machine Learning for Telemetry Data"
   Open To: 
-    - "Full-Stack Software Engineering Roles"
+    - "Full-Stack Development Roles"
     - "Open Source Collaborations"
