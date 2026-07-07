@@ -1,207 +1,198 @@
 <div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=250&section=header&text=Jimmy%20Razafindretsa&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Full%20Stack&descAlignY=75&descAlign=62" alt="Header Banner" width="100%" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Building+Enterprise+Software;Architecting+Full-Stack+Solutions;IoT+and+Systems+Development;Crafting+Modern+Web+Applications" alt="Typing SVG" />
-</a>
-
-<br />
-
-<!-- Academic & Location Badges -->
-<img src="https://img.shields.io/badge/CEGEP-Développement_Web-7b2cbf?style=for-the-badge&logo=probot&logoColor=white" alt="Academic" />
-<img src="https://img.shields.io/badge/Location-Montreal,%20QC-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-
-<br />
-<br />
-
-<!-- Social & Connect Buttons -->
-<a href="https://github.com/jimmy-razafindretsa"><img src="https://img.shields.io/badge/Portfolio-Explore-3c096c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/jimmy-razafindretsa-274832294/"><img src="https://img.shields.io/badge/LinkedIn-Connect-10002b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jimmyyoelrazafindretsa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-240046?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/jimmy-razafindretsa"><img src="https://img.shields.io/badge/GitHub-Follow-3c096c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br />
-<br />
-
-<!-- Analytics Badges -->
-<img src="https://komarev.com/ghpvc/?username=jimmy-razafindretsa&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/jimmy-razafindretsa?label=Followers&style=flat-square&color=5a189a&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/jimmy-razafindretsa?label=Total%20Stars&style=flat-square&color=3c096c&logo=github" alt="Stars" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=301934,5D3FD3,7038FF,190033&height=250&section=header&text=Jimmy%20Razafindretsa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Product%20Builder&descAlignY=55&descSize=22" alt="Header Banner" />
 </div>
 
-<br />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7038FF&center=true&vCenter=true&width=800&lines=Passionate+Software+Developer;Architecting+Robust+Full-Stack+Solutions;Building+High-Performance+IoT+Systems;Transforming+Business+Needs+Into+Code" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Montreal,%20QC-5D3FD3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-CEGEP%20de%20Sorel--Tracy-7038FF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic" />
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/jimmy-razafindretsa"><img src="https://img.shields.io/badge/Portfolio-Explore-181717?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jimmy-razafindretsa-274832294/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jimmyyoelrazafindretsa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jimmy-razafindretsa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jimmy-razafindretsa&color=5D3FD3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jimmy-razafindretsa?style=for-the-badge&color=7038FF&logo=github&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/jimmy-razafindretsa?style=for-the-badge&color=5D3FD3&logo=github&label=STARS" alt="Stars" />
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a results-driven **Software Developer** specializing in full-stack architecture, systems programming, and high-performance web applications. With a strong product-focused mindset, I bridge the gap between complex business requirements and scalable technical solutions. Currently, I deliver bespoke full-stack solutions at **Studio Mur Mur**, transforming ambitious client visions into functional, battle-tested applications.
+I am a highly driven **Software Developer** focused on designing, deploying, and maintaining battle-tested applications. Moving away from traditional engineering titles, my philosophy is rooted in pure software development, product mindset, and delivering tangible value through code. I specialize in full-stack architecture, secure systems, and scalable enterprise workflows.
 
-My expertise spans modern frontend ecosystems (Next.js, React), robust backend infrastructures (PostgreSQL, Laravel, Supabase), and low-level systems engineering (C, C++, IoT with ESP32). I thrive in dynamic environments where performance, security, and elegant system design are paramount.
-
-**Open To:** Full-Stack Development roles, Systems Architecture, and Open Source collaborations.
-
-<br />
+*   **Software Development:** Deep expertise in building custom game engines from scratch (Java), secure hybrid cryptography password managers, and hardware-software IoT integrations (C++/ESP32).
+*   **AI / ML Expertise:** Passionate about integrating cutting-edge AI tools and APIs into functional applications, optimizing data pipelines, and utilizing machine learning concepts to enhance software intelligence.
+*   **Full Stack Development:** Architecting robust state-driven platforms (Next.js, Laravel, React) backed by highly relational and secure databases (PostgreSQL, Supabase).
+*   **Product Mindset:** I don't just write code; I transform complex business and marketing visions into highly functional, field-tested software solutions.
+*   **Open To:** Challenging software development roles, full-stack architectural contracts, and collaborative open-source projects where performance and security are paramount.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,c,php,swift" />
-  </a>
-</p>
-
-### Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,sass,bootstrap" />
-  </a>
-</p>
-
-### Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,supabase,laravel,dotnet" />
-  </a>
-</p>
-
-### Cloud, DevOps & Tooling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,vercel,arduino" />
-  </a>
-</p>
-
-<br />
+<div align="center">
+  <br />
+  <strong>Languages</strong><br><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br /><br />
+  <strong>Frontend</strong><br><br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTMX-336699?style=for-the-badge&logo=htmx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br /><br />
+  <strong>Backend & Databases</strong><br><br>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <br /><br />
+  <strong>Cloud, DevOps & Tooling</strong><br><br>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</div>
 
 ---
 
 ## 🧠 AI / ML Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Predictive Analytics** | Advanced | Designing data pipelines and predictive modeling for telemetry and IoT sensor data. |
-| **Data Engineering** | Advanced | Structuring high-throughput relational databases (PostgreSQL) for structured and unstructured datasets. |
-| **AI Integrations** | Intermediate | Leveraging LLM APIs and prompt engineering for automated workflow orchestration and data parsing. |
-| **Edge Computing** | Intermediate | Processing sensor data locally on microcontrollers (ESP32) before cloud synchronization. |
-
-<br />
+| :--- | :--- | :--- |
+| **Generative AI Integration** | Advanced | Seamlessly integrating LLM APIs (OpenAI, Anthropic) into full-stack SaaS architectures. |
+| **Prompt Optimization** | Advanced | Structuring dynamic prompts for intelligent backend logic and autonomous data parsing. |
+| **Data Pipelines** | Intermediate | Developing robust PostgreSQL structures to store, manage, and retrieve vectorized data efficiently. |
+| **Predictive Analytics** | Intermediate | Utilizing foundational machine learning concepts for smart agricultural systems (FMS). |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🛡️ VAULT</b></summary>
-<br />
-Conception et développement d’un gestionnaire de mots de passe sécurisé basé sur une architecture cryptographique hybride mêlant chiffrement asymétrique et AES-256-CBC. Implémentation de fonctionnalités de pointe : authentification Passkeys (WebAuthn), OAuth 2.0, double facteur (2FA TOTP), et gestionnaire de sessions actives.
+  <summary><b>🛡️ VAULT</b></summary>
+  <br />
+  Conception and development of a secure password manager based on a hybrid cryptographic architecture mixing asymmetric encryption and AES-256-CBC.
+  <br /><br />
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Laravel, TypeScript, React, PostgreSQL, Tailwind CSS, Inertia.js |
-| **Scale** | Enterprise-grade identity and access management |
-| **Performance** | Optimized client-side encryption and rapid state hydration |
-| **Security** | Asymmetric Cryptography, AES-256-CBC, Passkeys (WebAuthn), TOTP 2FA |
-| **Impact** | Eliminates plaintext vulnerability with zero-knowledge token management |
-| **Repository** | [vaultpm.dev](https://vaultpm.dev/) |
-
-*Professional implementation of modern cryptographic standards and secure token sharing protocols.*
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | Laravel, React, TS, PostgreSQL | Enterprise SaaS | Highly Optimized | WebAuthn, OAuth 2.0, 2FA TOTP, AES-256 | High-grade enterprise credential management | [Live App](https://vaultpm.dev/) |
+  
+  *Professional Project Explanation:* Engineered a state-of-the-art credential manager utilizing Inertia.js for seamless SPA-like routing. Implemented advanced security measures including active session management and secure token sharing, completely modernizing identity and access protocols.
 </details>
 
 <details>
-<summary><b>⚡ Projet FB</b></summary>
-<br />
-Développement d’un orchestrateur de flux de travail remplaçant la gestion manuelle par courriel. Architecture pilotée par l'état pour gérer le cycle de vie des commandes. Intégration de webhooks pour des notifications en temps réel et d'un stockage sécurisé pour les fiches techniques.
+  <summary><b>🌾 Farm Management Software (FMS)</b></summary>
+  <br />
+  A bespoke agricultural management platform currently under active development for Fermes JN Beauchemin.
+  <br /><br />
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Next.js, Supabase, PostgreSQL |
-| **Scale** | Multi-tenant workflow orchestration |
-| **Performance** | Real-time state synchronization via WebSockets |
-| **Security** | Row Level Security (RLS) and Secure Blob Storage |
-| **Impact** | Digitized and automated manual operational workflows |
-| **Repository** | [projet-PF](https://github.com/jimmy-razafindretsa/projet-PF) |
-
-*A robust state-driven architecture ensuring fault-tolerant business operations.*
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | Full-Stack Web | Commercial Farm | Real-time Data | Role-based Access | Digitized physical agricultural workflows | Private |
+  
+  *Professional Project Explanation:* Leading the architecture and software development of a comprehensive Farm Management Software. Designed to handle field data, resource tracking, and automated reporting, replacing legacy systems with modern, responsive digital interfaces.
 </details>
 
 <details>
-<summary><b>🌱 Système d’irrigation connecté (IoT)</b></summary>
-<br />
-Conception et développement d’un système d’irrigation intelligent basé sur un ESP32, intégrant des pompes et plusieurs capteurs (humidité du sol, UV, niveau d’eau). Les données sont transmises à une application web pour visualisation et analyse. L’arrosage automatique est contrôlé via une API permettant des requêtes distantes.
+  <summary><b>👔 Projet FB (Orchestrator)</b></summary>
+  <br />
+  A workflow orchestrator designed to replace manual email management between suppliers and tailors.
+  <br /><br />
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | C, C++, ESP32, REST API, Web Dashboard |
-| **Scale** | Edge computing network with cloud synchronization |
-| **Performance** | Low-latency hardware interrupts and efficient memory management |
-| **Security** | Authenticated REST endpoints for remote pump actuation |
-| **Impact** | Autonomous resource optimization via sensor telemetry |
-| **Repository** | Proprietary Hardware / Embedded C++ |
-
-*Bridging hardware and software through embedded systems engineering and cloud APIs.*
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | Next.js, Supabase, PostgreSQL | B2B Operations | Edge Deployed | Blob Storage, RLS | Streamlined supply chain lifecycle | [GitHub](https://github.com/jimmy-razafindretsa/projet-PF) |
+  
+  *Professional Project Explanation:* Built a state-driven architecture managing the entire lifecycle of custom orders. Integrated real-time Supabase webhooks for instant notifications and secure blob storage for technical specification sheets.
 </details>
 
 <details>
-<summary><b>🎮 Doctrina Engine</b></summary>
-<br />
-Conception et développement d’un moteur de jeu en Java entièrement réalisé from scratch. Le projet inclut plusieurs jeux complets exploitant le moteur afin de démontrer ses capacités, notamment la gestion des entités, le rendu graphique, la logique de jeu, les interactions et la performance.
+  <summary><b>💧 Système d’irrigation connecté (IoT)</b></summary>
+  <br />
+  Design and development of an intelligent irrigation system using embedded hardware and web integration.
+  <br /><br />
 
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Java (Core), Rendering APIs |
-| **Scale** | Core architecture powering multiple concurrent game instances |
-| **Performance** | Custom memory management and optimized render loops (60+ FPS) |
-| **Security** | Memory-safe entity component systems |
-| **Impact** | Demonstrates deep understanding of low-level application loops and rendering |
-| **Repository** | [doctrina-engine-2025](https://github.com/jimmy-razafindretsa/doctrina-engine-2025) |
-
-*A rigorous exercise in object-oriented design patterns and systems-level performance tuning.*
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | ESP32, C, C++, REST API | Hardware Integration | Low Latency | Token Auth | Automated water conservation | Private |
+  
+  *Professional Project Explanation:* Engineered the C/C++ firmware for ESP32 microcontrollers to interface with soil moisture, UV, and water level sensors. Built a remote REST API to process telemetry data and execute automated irrigation logic efficiently.
 </details>
 
-<br />
+<details>
+  <summary><b>🎮 Doctrina Game Engine</b></summary>
+  <br />
+  A fully custom 2D game engine built entirely from scratch to demonstrate low-level architectural capabilities.
+  <br /><br />
+
+  | Stack | Scale | Performance | Security | Impact | Repository |
+  | :--- | :--- | :--- | :--- | :--- | :--- |
+  | Java (Vanilla) | Custom Architecture | 60+ FPS Rendering | Memory Safe | Proven low-level design competence | [GitHub](https://github.com/jimmy-razafindretsa/doctrina-engine-2025) |
+  
+  *Professional Project Explanation:* Bypassed pre-built tools to manually code entity management, graphical rendering, game loops, and collision physics. Shipped multiple complete games running on the engine to validate its stability and performance overhead.
+</details>
 
 ---
 
 ## 💼 Experience
 
-**Développeur Logiciel Full-Stack** | Studio Mur Mur  
-*2026-02 — Present*  
-Conception, déploiement et maintenance de solutions logicielles sur mesure pour une clientèle variée.
-- Transformation de visions marketing complexes en applications fonctionnelles ("battle-tested").
-- Collaboration directe avec les clients pour traduire des besoins d'affaires en architectures techniques robustes.
-- Optimisation des performances et de la sécurité des applications déployées.
-<br/>`Full-Stack Architecture` `Client Relations` `Web Ecosystems`
+**Développeur Logiciel** | **Fermes JN Beauchemin**
+*2026 - Present*
+*Currently driving the software development of a dedicated Farm Management Software (FMS) platform.*
+* Architecting data structures for agricultural resource management.
+* Developing intuitive user interfaces for field workers and administrative staff.
+* Designing secure REST APIs to handle large-scale farm telemetry and business logic.
+> `Full-Stack Development` `System Architecture` `Product Management` `Agri-Tech`
 
-**Software Developer** | Fermes JN Beauchemin  
-*Present*  
-Leading the end-to-end architecture and development of a custom Software Ecosystem.
-- Designing scalable database schemas and modular UI components.
-- Implementing robust CI/CD pipelines and extensive test-driven development (TDD).
-- Integrating automated workflows and real-time data processing.
-<br/>`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind` `CI/CD`
+**Développeur Logiciel Full-Stack** | **Studio Mur Mur**
+*Feb 2026 - Present*
+*Delivering non-recurring, bespoke software contracts and robust digital solutions for a diverse clientele.*
+* Conception, deployment, and maintenance of custom software applications.
+* Transformation of complex marketing visions into functional, battle-tested software.
+* Direct collaboration with clients to translate business needs into robust technical architectures.
+> `React` `Next.js` `PostgreSQL` `Client Architecture` `SaaS`
 
-**Technicien TI – Déploiement** | Fairstone  
-*2025-05 — 2025-07*  
-Installation, configuration et déploiement de postes de travail en environnement corporatif.
-- Préparation des systèmes, installation logicielle et gestion des comptes utilisateurs via Active Directory.
-- Support de premier niveau dans le strict respect des standards TI et des procédures de sécurité.
-<br/>`System Administration` `IT Support` `Security Protocols`
+**Technicien TI – Déploiement de postes de travail** | **Fairstone**
+*May 2025 - Jul 2025*
+*Managed IT hardware lifecycles and software deployments in a fast-paced corporate environment.*
+* Installation, configuration, and deployment of PC workstations and peripherals.
+* Preparation of systems, required software installations, and user account management.
+* Provided first-level user support adhering strictly to IT security protocols.
+> `Active Directory` `Hardware Deployment` `IT Security` `Enterprise Support`
 
-**Stagiaire observateur – TI et développement** | Fabspec  
-*2023-09 — 2023-09*  
-Observation des activités en technologies de l’information et en développement logiciel.
-- Découverte des processus de cycle de développement applicatif et de la gestion de l'infrastructure.
-<br/>`Agile Methodologies` `Enterprise IT`
-
-<br />
+**Stagiaire observateur – TI et développement** | **Fabspec**
+*Sep 2023 - Sep 2023*
+*Shadowed senior developers and IT specialists to understand enterprise-level workflows.*
+* Observation of information technology operations and software development lifecycles.
+* Discovered application development cycles, IT support processes, and system management.
+> `Agile Methodologies` `SDLC` `Enterprise IT`
 
 ---
 
@@ -211,58 +202,47 @@ Observation des activités en technologies de l’information et en développeme
 
 | Recognition | Details |
 | :--- | :--- |
-| **Full-Stack Architecture Lead** | Spearheaded digital transformations and custom application builds for various clients. |
-| **Open Source Contributor** | Authored and maintained highly optimized Java game engine architecture. |
-| **IoT Innovator** | Designed an autonomous ESP32 hardware-software bridge. |
+| **Lead Architect - FMS** | Trusted to single-handedly design and build a proprietary Farm Management Software. |
+| **Enterprise Cryptography** | Successfully deployed a production-grade WebAuthn/AES-256 hybrid security vault. |
+| **IoT Hardware Integration** | Bridged the gap between low-level hardware (C/C++) and high-level web APIs. |
+| **Custom Engine Development**| Authored a functioning Java 2D Game Engine demonstrating high-level OOP concepts. |
 
 </div>
-
-<br />
 
 ---
 
 ## 📜 Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Oracle-Certified_Java_Programmer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-049CE4?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Java_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Software_Development-0055FF?style=for-the-badge&logo=nptel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
-
-<br />
 
 ---
 
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-Premium_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Coder-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/HackerRank-5_Stars-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Algorithms_&_Data_Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Code_Challenges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </div>
-
-<br />
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimmy-razafindretsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy-razafindretsa&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmy-razafindretsa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7038FF&text_color=B3B3B3&icon_color=5D3FD3" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy-razafindretsa&theme=tokyonight&hide_border=true&background=0D1117&ring=7038FF&fire=5D3FD3&currStreakNum=FFFFFF" alt="GitHub Streak" />
 </div>
-<br />
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-razafindretsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-razafindretsa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7038FF&text_color=B3B3B3" alt="Top Languages" />
 </div>
-
-<br />
 
 ---
 
@@ -272,43 +252,41 @@ Observation des activités en technologies de l’information et en développeme
   <img src="https://github-profile-trophy.vercel.app/?username=jimmy-razafindretsa&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-<br />
-
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmy-razafindretsa&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=9D4EDD&line=7B2CBF" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmy-razafindretsa&bg_color=0D1117&color=7038FF&line=5D3FD3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
-<br />
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jimmy-razafindretsa/jimmy-razafindretsa/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimmy-razafindretsa/jimmy-razafindretsa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmy-razafindretsa/jimmy-razafindretsa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jimmy-razafindretsa/jimmy-razafindretsa/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
-
-<br />
 
 ---
 
-## 🔭 Current Focus
+## 🎯 Current Focus
 
 ```yaml
-profile:
-  Learning: 
-    - "Advanced Distributed Systems Architecture"
-    - "Rust for high-performance memory-safe tooling"
-  Building: 
-    - "Scalable Full-Stack Web Applications"
-    - "Secure Identity and Token Management APIs"
-  Exploring: 
-    - "Edge IoT integrations with WebSockets"
-    - "Machine Learning for Telemetry Data"
-  Open To: 
-    - "Full-Stack Development Roles"
-    - "Open Source Collaborations"
+Current_Status:
+  Learning:
+    - Advanced Enterprise Architecture Patterns
+    - High-Performance WebGL Data Visualizations
+  Building:
+    - Farm Management Software (FMS) @ Fermes JN Beauchemin
+    - VAULT Password Manager (WebAuthn / AES-256)
+  Exploring:
+    - Artificial Intelligence & LLM Pipelines
+    - Multi-Tenant SaaS Deployments
+  Open_To:
+    - Complex Software Development Contracts
+    - Open Source Collaboration
